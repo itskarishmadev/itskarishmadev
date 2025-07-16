@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Karishma, a passionate Frontend Developer with 2 years of experience building fast, responsive, and user-friendly web applications.<br><br>💻 I specialize in:<br><br>⚛️ React.js<br><br>🚀 Next.js<br><br>🎨 Tailwind CSS<br><br>🧩 Component-based design<br><br>📦 REST API integration<br><br>📱 Responsive UI development<br><br>[![Portfolio](https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-web-web-hosting-flat-icons-inmotus-design.png)](https://itskarishmaportfolio.netlify.app/)  
-[KarishmaPortfolio](https://itskarishmaportfolio.netlify.app/)
-<br><br>I love turning complex ideas into clean, interactive interfaces. I’m always eager to learn new technologies and improve user experience through smooth, scalable frontend solutions.<br><br>
+Hi there! I'm Karishma, a passionate Frontend Developer with 2 years of experience building fast, responsive, and user-friendly web applications.<br><br>💻 I specialize in:<br><br>⚛️ React.js<br><br>🚀 Next.js<br><br>🎨 Tailwind CSS<br><br>🧩 Component-based design<br><br>📦 REST API integration<br><br>📱 Responsive UI development<br><br>[![KarishmaPortfolio](https://www.flaticon.com/free-icon-font/globe_3917561?page=1&position=3&term=globe&origin=search&related_id=3917561)](https://itskarishmaportfolio.netlify.app/)<br><br>I love turning complex ideas into clean, interactive interfaces. I’m always eager to learn new technologies and improve user experience through smooth, scalable frontend solutions.<br><br>
 
 
 ## 🌐 Socials:
